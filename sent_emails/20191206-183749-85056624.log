@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: darbar@uwindsor.ca
+Date: Fri, 06 Dec 2019 23:37:49 -0000
+Message-ID: <157567546994.7804.10571295921615552381@LAPTOP-NFCDCR3P.home>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/reset/MQ/5c1-70fffb08b2ae620646f5/
+
+Your username, in case you've forgotten: deepraj
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

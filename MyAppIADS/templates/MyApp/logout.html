@@ -1,0 +1,7 @@
+{% extends 'myapp/base0.html' %}
+{% block title %} Logout page{% endblock %}
+{% block body_block %}
+    <form action="{% url 'MyAppIADS:logout' %}" method="post">
+    </form>
+
+{% endblock %}
